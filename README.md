@@ -10,3 +10,6 @@ This version currently exists in production environment. It is not supported off
 
 [Go to the documentation](http://ec2-54-175-164-201.compute-1.amazonaws.com:4180/consumer-interation-index.html).
 
+# Chat
+
+[Go to the documentation](http://ec2-54-175-164-201.compute-1.amazonaws.com:4180/chat/).
