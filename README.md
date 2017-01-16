@@ -1,11 +1,13 @@
 # Messaging
 
-## Version 3 - Review Only (not deployed yet)
+## Messaging Window API
+
+### Version 3 - Review Only (not deployed yet)
 This version will soon be deployed to the production environment. It is likely that changes will be made.
 
 [Go to the documentation](http://ec2-54-175-164-201.compute-1.amazonaws.com:4180/v3/consumer-interation-index.html).
 
-## Version 2 - Deprecated
+### Version 2 - Deprecated
 This version currently exists in the production environment. It is not officially supported and will soon be deprecated.
 
 [Go to the documentation](http://ec2-54-175-164-201.compute-1.amazonaws.com:4180/consumer-interation-index.html).
