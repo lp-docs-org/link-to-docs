@@ -1,5 +1,3 @@
-# link-to-docs
-
 # Messaging
 
 ## Version 3 - Review Only (not deployed yet)
